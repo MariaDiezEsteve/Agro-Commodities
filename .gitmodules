@@ -1,0 +1,6 @@
+[submodule "Agro-Commodities-Investment"]
+	path = Agro-Commodities-Investment
+	url = https://github.com/MariaDiezEsteve/Agro-Commodities-Investment.git
+[submodule "Agro-Commodities-Investment-back"]
+	path = Agro-Commodities-Investment-back
+	url = https://github.com/MariaDiezEsteve/Agro-Commodities-Investment-back.git
